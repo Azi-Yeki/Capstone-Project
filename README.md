@@ -4,6 +4,7 @@ Code a Python program that will read from the text file inventory.txt and perfor
 
 Inside this file, you will find a class named Shoe with the following
 attributes:
+
 ● country,
 ● code,
 ● product,
