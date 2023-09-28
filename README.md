@@ -6,9 +6,13 @@ Inside this file, you will find a class named Shoe with the following
 attributes:
 
 ● country,
+
 ● code,
+
 ● product,
+
 ● cost, and
+
 ● quantity.
 
 o Inside this class define the following methods:
